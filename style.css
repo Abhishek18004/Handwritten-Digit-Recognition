@@ -251,7 +251,7 @@ input[type="file"]:hover {
 }
 
 body {
-    background: linear-gradient(to bottom right, #F5F3FF, #fce4ec);
+    background: linear-gradient(to bottom right, #ffd4ed, #e0cdff);
     background-attachment: fixed;
     background-size: cover;
     position: relative;
